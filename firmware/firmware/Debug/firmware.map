@@ -1,0 +1,1886 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_udivmodhi4.o)
+                              src/ASF/xmega/drivers/usb/usb_device.o (__udivmodhi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2/crtx16c4.o (exit)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_copy_data.o)
+                              src/ASF/common/services/sleepmgr/xmega/sleepmgr.o (__do_copy_data)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_clear_bss.o)
+                              src/ASF/common/services/sleepmgr/xmega/sleepmgr.o (__do_clear_bss)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2\libc.a(memcpy.o)
+                              src/ASF/common/services/usb/class/cdc/device/udi_cdc.o (memcpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+udd_g_ctrlreq       0x10              src/ASF/xmega/drivers/usb/usb_device.o
+sleepmgr_locks      0x6               src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2/crtx16c4.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .text          0x00000000        0x0 src/ASF/common/services/clock/xmega/sysclk.o
+ .bss           0x00000000        0x0 src/ASF/common/services/clock/xmega/sysclk.o
+ .text.sysclk_disable_module
+                0x00000000       0x14 src/ASF/common/services/clock/xmega/sysclk.o
+ .text.sysclk_disable_usb
+                0x00000000       0x16 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .text          0x00000000        0x0 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .bss           0x00000000        0x0 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x5b0 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x2ee src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x1ad src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x293 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x9e src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000     0x4547 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x9a src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0xf1 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x18 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x16c src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x35 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x51 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x97 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x17 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x250 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x76 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x6e0 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x160 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x40 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x69 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x32 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0xe4 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .text          0x00000000        0x0 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .bss           0x00000000        0x0 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .data.sleepmgr_configs
+                0x00000000        0xc src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x5b0 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x1ad src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x293 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x9e src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000     0x4547 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x9a src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0xf1 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x18 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x16c src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x35 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x51 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x2ee src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x97 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x17 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x250 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x76 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x6e0 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x160 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x40 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x69 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x32 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0xe4 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text          0x00000000        0x0 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss           0x00000000        0x0 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_ctrl_state_notify
+                0x00000000       0x50 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_ctrl_state_change
+                0x00000000       0x42 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_serial_state_msg_sent
+                0x00000000       0x2e src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_ctrl_signal_dcd
+                0x00000000        0xe src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_ctrl_signal_dsr
+                0x00000000        0xe src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_signal_framing_error
+                0x00000000        0xe src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_signal_parity_error
+                0x00000000        0xe src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_signal_overrun
+                0x00000000        0xe src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_multi_ctrl_signal_dcd
+                0x00000000        0xa src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_multi_ctrl_signal_dsr
+                0x00000000        0xa src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_multi_signal_framing_error
+                0x00000000        0xc src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_multi_signal_parity_error
+                0x00000000        0xc src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_multi_signal_overrun
+                0x00000000        0xc src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_get_nb_received_data
+                0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_is_rx_ready
+                0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_multi_getc
+                0x00000000       0x96 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_getc
+                0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_multi_read_buf
+                0x00000000       0xb8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_read_buf
+                0x00000000        0xc src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_get_free_tx_buffer
+                0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_is_tx_ready
+                0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_multi_write_buf
+                0x00000000       0xdc src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_write_buf
+                0x00000000        0xc src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_serial_state_msg_ongoing
+                0x00000000        0x1 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000      0x5b0 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000      0x1ad src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000      0x293 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x9e src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000     0x4547 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x9a src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0xf1 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x18 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000      0x16c src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x35 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x51 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000      0x2ee src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x97 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x17 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000      0x250 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x76 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000      0x6e0 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000      0x160 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x40 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x69 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0x32 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00000000       0xe4 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .text          0x00000000        0x0 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .bss           0x00000000        0x0 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000      0x5b0 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000      0x1ad src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000      0x293 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x9e src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000     0x4547 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x9a src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0xf1 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x18 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000      0x16c src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x35 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x51 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000      0x2ee src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x97 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x17 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000      0x250 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x76 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000      0x6e0 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000      0x160 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x40 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x69 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x32 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0xe4 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x8b src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000      0x225 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0xf0 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000      0x241 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0xbb src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00000000      0x190 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .group         0x00000000        0x8 src/ASF/common/services/usb/udc/udc.o
+ .text          0x00000000        0x0 src/ASF/common/services/usb/udc/udc.o
+ .bss           0x00000000        0x0 src/ASF/common/services/usb/udc/udc.o
+ .text.udc_get_interface_desc
+                0x00000000        0xa src/ASF/common/services/usb/udc/udc.o
+ .text.udc_stop
+                0x00000000        0xa src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000      0x5b0 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000      0x1ad src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000      0x293 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x9e src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000     0x4547 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x9a src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0xf1 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x18 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000      0x16c src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x35 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x51 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000      0x2ee src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x97 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x17 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000      0x250 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x76 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000      0x6e0 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000      0x160 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x40 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x69 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x32 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0xe4 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x8b src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000      0x225 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0xf0 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000      0x241 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0xbb src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/services/usb/udc/udc.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/cpu/ccp.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/cpu/ccp.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_read_device_serial
+                0x00000000       0x90 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_read_byte
+                0x00000000       0x22 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_read_buffer
+                0x00000000       0x34 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_flush_buffer
+                0x00000000       0x24 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_load_byte_to_buffer
+                0x00000000       0x24 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_write_byte
+                0x00000000       0x52 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_load_page_to_buffer
+                0x00000000       0x40 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_atomic_write_page
+                0x00000000       0x3c src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_and_write_buffer
+                0x00000000       0x88 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_split_write_page
+                0x00000000       0x3c src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_fill_buffer_with_value
+                0x00000000       0x2a src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_bytes_in_page
+                0x00000000       0x3c src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_page
+                0x00000000       0x14 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_bytes_in_all_pages
+                0x00000000       0x2e src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_all
+                0x00000000        0xc src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_issue_flash_range_crc
+                0x00000000       0x2c src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_flash_read_buffer
+                0x00000000       0x3c src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_user_sig_read_buffer
+                0x00000000       0x3c src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_user_sig_write_buffer
+                0x00000000      0x14e src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_flash_erase_and_write_buffer
+                0x00000000      0x162 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_fuses_read
+                0x00000000       0x32 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x5b0 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x1ad src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x293 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x9e src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000     0x4547 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x9a src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0xf1 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x34 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x18 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x5e src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x22 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x16c src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x1c src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x35 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x51 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x2ee src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x97 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x17 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x250 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x76 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x16 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x6e0 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x160 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x40 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x69 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x32 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0xe4 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x26 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x16 src/ASF/xmega/drivers/nvm/nvm.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .BOOT          0x00000000       0x44 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usb/usb_device.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/usb/usb_device.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_disable
+                0x00000000       0x36 src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_include_vbus_monitoring
+                0x00000000        0x4 src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_detach
+                0x00000000        0xc src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_send_remotewakeup
+                0x00000000       0x20 src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ep_wait_stall_clear
+                0x00000000       0x4e src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ep_is_valid
+                0x00000000       0x14 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000      0x5b0 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000      0x1ad src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000      0x293 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x9e src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000     0x4547 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x9a src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0xf1 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x34 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x18 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x5e src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x22 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000      0x16c src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x1c src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x35 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x51 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000      0x2ee src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x97 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x17 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000      0x250 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x76 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x16 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000      0x6e0 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000      0x160 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x40 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x69 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x32 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0xe4 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x8b src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000      0x225 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0xf0 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x40 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x3a src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x7b src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x2f src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000      0x154 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000      0x241 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0xbb src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x16 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x1c src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x26 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x16 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x00000000       0x5e src/ASF/xmega/drivers/usb/usb_device.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .text          0x00000000        0x0 src/main.o
+ .bss           0x00000000        0x0 src/main.o
+ .debug_macro   0x00000000      0x5b0 src/main.o
+ .debug_macro   0x00000000       0x10 src/main.o
+ .debug_macro   0x00000000      0x1ad src/main.o
+ .debug_macro   0x00000000      0x293 src/main.o
+ .debug_macro   0x00000000       0x9e src/main.o
+ .debug_macro   0x00000000     0x4547 src/main.o
+ .debug_macro   0x00000000       0x9a src/main.o
+ .debug_macro   0x00000000       0xf1 src/main.o
+ .debug_macro   0x00000000       0x34 src/main.o
+ .debug_macro   0x00000000       0x18 src/main.o
+ .debug_macro   0x00000000       0x5e src/main.o
+ .debug_macro   0x00000000       0x10 src/main.o
+ .debug_macro   0x00000000       0x22 src/main.o
+ .debug_macro   0x00000000      0x16c src/main.o
+ .debug_macro   0x00000000       0x1c src/main.o
+ .debug_macro   0x00000000       0x35 src/main.o
+ .debug_macro   0x00000000       0x51 src/main.o
+ .debug_macro   0x00000000      0x2ee src/main.o
+ .debug_macro   0x00000000       0x97 src/main.o
+ .debug_macro   0x00000000       0x17 src/main.o
+ .debug_macro   0x00000000      0x250 src/main.o
+ .debug_macro   0x00000000       0x76 src/main.o
+ .debug_macro   0x00000000       0x16 src/main.o
+ .debug_macro   0x00000000      0x6e0 src/main.o
+ .debug_macro   0x00000000       0x10 src/main.o
+ .debug_macro   0x00000000      0x160 src/main.o
+ .debug_macro   0x00000000       0x40 src/main.o
+ .debug_macro   0x00000000       0x69 src/main.o
+ .debug_macro   0x00000000       0x32 src/main.o
+ .debug_macro   0x00000000       0xe4 src/main.o
+ .debug_macro   0x00000000       0x7c src/main.o
+ .debug_macro   0x00000000      0x109 src/main.o
+ .debug_macro   0x00000000       0x3a src/main.o
+ .debug_macro   0x00000000       0x26 src/main.o
+ .debug_macro   0x00000000       0x5e src/main.o
+ .debug_macro   0x00000000       0x10 src/main.o
+ .debug_macro   0x00000000       0x40 src/main.o
+ .debug_macro   0x00000000       0x7b src/main.o
+ .debug_macro   0x00000000       0x2f src/main.o
+ .debug_macro   0x00000000      0x154 src/main.o
+ .debug_macro   0x00000000      0x225 src/main.o
+ .debug_macro   0x00000000       0xf0 src/main.o
+ .debug_macro   0x00000000      0x241 src/main.o
+ .debug_macro   0x00000000       0xbb src/main.o
+ .debug_macro   0x00000000       0x16 src/main.o
+ .debug_macro   0x00000000       0x1c src/main.o
+ .debug_macro   0x00000000      0x190 src/main.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .group         0x00000000        0x8 src/system.o
+ .text          0x00000000        0x0 src/system.o
+ .bss           0x00000000        0x0 src/system.o
+ .text.task     0x00000000       0x16 src/system.o
+ .debug_macro   0x00000000      0x5b0 src/system.o
+ .debug_macro   0x00000000       0x10 src/system.o
+ .debug_macro   0x00000000      0x1ad src/system.o
+ .debug_macro   0x00000000      0x293 src/system.o
+ .debug_macro   0x00000000       0x9e src/system.o
+ .debug_macro   0x00000000     0x4547 src/system.o
+ .debug_macro   0x00000000       0x9a src/system.o
+ .debug_macro   0x00000000       0xf1 src/system.o
+ .debug_macro   0x00000000       0x34 src/system.o
+ .debug_macro   0x00000000       0x18 src/system.o
+ .debug_macro   0x00000000       0x5e src/system.o
+ .debug_macro   0x00000000       0x10 src/system.o
+ .debug_macro   0x00000000       0x22 src/system.o
+ .debug_macro   0x00000000      0x16c src/system.o
+ .debug_macro   0x00000000       0x1c src/system.o
+ .debug_macro   0x00000000       0x35 src/system.o
+ .debug_macro   0x00000000       0x51 src/system.o
+ .debug_macro   0x00000000      0x2ee src/system.o
+ .debug_macro   0x00000000       0x97 src/system.o
+ .debug_macro   0x00000000       0x17 src/system.o
+ .debug_macro   0x00000000      0x250 src/system.o
+ .debug_macro   0x00000000       0x76 src/system.o
+ .debug_macro   0x00000000       0x16 src/system.o
+ .debug_macro   0x00000000      0x6e0 src/system.o
+ .debug_macro   0x00000000       0x10 src/system.o
+ .debug_macro   0x00000000      0x160 src/system.o
+ .debug_macro   0x00000000       0x40 src/system.o
+ .debug_macro   0x00000000       0x69 src/system.o
+ .debug_macro   0x00000000       0x32 src/system.o
+ .debug_macro   0x00000000       0xe4 src/system.o
+ .debug_macro   0x00000000       0x34 src/system.o
+ .debug_macro   0x00000000       0x7c src/system.o
+ .debug_macro   0x00000000      0x109 src/system.o
+ .debug_macro   0x00000000       0x40 src/system.o
+ .debug_macro   0x00000000       0x3a src/system.o
+ .debug_macro   0x00000000       0x26 src/system.o
+ .debug_macro   0x00000000       0x5e src/system.o
+ .debug_macro   0x00000000       0x10 src/system.o
+ .debug_macro   0x00000000       0x40 src/system.o
+ .debug_macro   0x00000000       0x7b src/system.o
+ .debug_macro   0x00000000       0x2f src/system.o
+ .debug_macro   0x00000000      0x154 src/system.o
+ .debug_macro   0x00000000      0x225 src/system.o
+ .debug_macro   0x00000000       0x91 src/system.o
+ .debug_macro   0x00000000       0xf0 src/system.o
+ .debug_macro   0x00000000      0x241 src/system.o
+ .debug_macro   0x00000000       0xbb src/system.o
+ .debug_macro   0x00000000       0x16 src/system.o
+ .debug_macro   0x00000000       0x1c src/system.o
+ .debug_macro   0x00000000      0x190 src/system.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2\libc.a(memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00802000         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2/crtx16c4.o
+LOAD src/ASF/common/services/clock/xmega/sysclk.o
+LOAD src/ASF/common/services/ioport/xmega/ioport_compat.o
+LOAD src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+LOAD src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+LOAD src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+LOAD src/ASF/common/services/usb/udc/udc.o
+LOAD src/ASF/xmega/drivers/cpu/ccp.o
+LOAD src/ASF/xmega/drivers/nvm/nvm.o
+LOAD src/ASF/xmega/drivers/nvm/nvm_asm.o
+LOAD src/ASF/xmega/drivers/usb/usb_device.o
+LOAD src/main.o
+LOAD src/system.o
+START GROUP
+END GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2\libc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1e48
+ *(.vectors)
+ .vectors       0x00000000      0x1fc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2/crtx16c4.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x000001fc                . = ALIGN (0x2)
+                0x000001fc                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000001fc        0x0 linker stubs
+ *(.trampolines*)
+                0x000001fc                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000001fc                __ctors_start = .
+ *(.ctors)
+                0x000001fc                __ctors_end = .
+                0x000001fc                __dtors_start = .
+ *(.dtors)
+                0x000001fc                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000001fc        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2/crtx16c4.o
+                0x000001fc                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000001fc        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2/crtx16c4.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000208       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_copy_data.o)
+                0x00000208                __do_copy_data
+ .init4         0x0000021e       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_clear_bss.o)
+                0x0000021e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000022e        0x8 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2/crtx16c4.o
+ *(.init9)
+ *(.text)
+ .text          0x00000236        0x2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2/crtx16c4.o
+                0x00000236                __vector_38
+                0x00000236                __vector_104
+                0x00000236                __vector_22
+                0x00000236                __vector_63
+                0x00000236                __vector_28
+                0x00000236                __vector_67
+                0x00000236                __vector_1
+                0x00000236                __vector_119
+                0x00000236                __vector_32
+                0x00000236                __vector_75
+                0x00000236                __vector_71
+                0x00000236                __vector_91
+                0x00000236                __vector_34
+                0x00000236                __vector_62
+                0x00000236                __vector_77
+                0x00000236                __vector_102
+                0x00000236                __vector_24
+                0x00000236                __vector_12
+                0x00000236                __vector_55
+                0x00000236                __vector_69
+                0x00000236                __vector_81
+                0x00000236                __vector_90
+                0x00000236                __vector_46
+                0x00000236                __bad_interrupt
+                0x00000236                __vector_122
+                0x00000236                __vector_72
+                0x00000236                __vector_114
+                0x00000236                __vector_6
+                0x00000236                __vector_110
+                0x00000236                __vector_31
+                0x00000236                __vector_92
+                0x00000236                __vector_35
+                0x00000236                __vector_78
+                0x00000236                __vector_74
+                0x00000236                __vector_117
+                0x00000236                __vector_39
+                0x00000236                __vector_107
+                0x00000236                __vector_3
+                0x00000236                __vector_105
+                0x00000236                __vector_98
+                0x00000236                __vector_23
+                0x00000236                __vector_68
+                0x00000236                __vector_30
+                0x00000236                __vector_73
+                0x00000236                __vector_45
+                0x00000236                __vector_25
+                0x00000236                __vector_93
+                0x00000236                __vector_61
+                0x00000236                __vector_11
+                0x00000236                __vector_54
+                0x00000236                __vector_99
+                0x00000236                __vector_13
+                0x00000236                __vector_17
+                0x00000236                __vector_19
+                0x00000236                __vector_56
+                0x00000236                __vector_7
+                0x00000236                __vector_49
+                0x00000236                __vector_123
+                0x00000236                __vector_41
+                0x00000236                __vector_86
+                0x00000236                __vector_100
+                0x00000236                __vector_101
+                0x00000236                __vector_64
+                0x00000236                __vector_88
+                0x00000236                __vector_109
+                0x00000236                __vector_43
+                0x00000236                __vector_27
+                0x00000236                __vector_5
+                0x00000236                __vector_113
+                0x00000236                __vector_33
+                0x00000236                __vector_76
+                0x00000236                __vector_115
+                0x00000236                __vector_47
+                0x00000236                __vector_52
+                0x00000236                __vector_37
+                0x00000236                __vector_95
+                0x00000236                __vector_103
+                0x00000236                __vector_96
+                0x00000236                __vector_89
+                0x00000236                __vector_108
+                0x00000236                __vector_4
+                0x00000236                __vector_44
+                0x00000236                __vector_82
+                0x00000236                __vector_106
+                0x00000236                __vector_118
+                0x00000236                __vector_51
+                0x00000236                __vector_9
+                0x00000236                __vector_2
+                0x00000236                __vector_21
+                0x00000236                __vector_15
+                0x00000236                __vector_66
+                0x00000236                __vector_36
+                0x00000236                __vector_79
+                0x00000236                __vector_58
+                0x00000236                __vector_70
+                0x00000236                __vector_83
+                0x00000236                __vector_29
+                0x00000236                __vector_60
+                0x00000236                __vector_121
+                0x00000236                __vector_40
+                0x00000236                __vector_85
+                0x00000236                __vector_94
+                0x00000236                __vector_8
+                0x00000236                __vector_26
+                0x00000236                __vector_48
+                0x00000236                __vector_124
+                0x00000236                __vector_116
+                0x00000236                __vector_112
+                0x00000236                __vector_111
+                0x00000236                __vector_80
+                0x00000236                __vector_14
+                0x00000236                __vector_84
+                0x00000236                __vector_57
+                0x00000236                __vector_53
+                0x00000236                __vector_10
+                0x00000236                __vector_50
+                0x00000236                __vector_16
+                0x00000236                __vector_59
+                0x00000236                __vector_18
+                0x00000236                __vector_97
+                0x00000236                __vector_20
+                0x00000236                __vector_42
+                0x00000236                __vector_87
+                0x00000236                __vector_65
+                0x00000236                __vector_120
+                0x00000238                . = ALIGN (0x2)
+ *(.text.*)
+ .text.sysclk_init
+                0x00000238       0x94 src/ASF/common/services/clock/xmega/sysclk.o
+                0x00000238                sysclk_init
+ .text.sysclk_enable_module
+                0x000002cc       0x16 src/ASF/common/services/clock/xmega/sysclk.o
+                0x000002cc                sysclk_enable_module
+ .text.sysclk_enable_usb
+                0x000002e2       0x6c src/ASF/common/services/clock/xmega/sysclk.o
+                0x000002e2                sysclk_enable_usb
+ .text.ioport_configure_port_pin
+                0x0000034e       0x50 src/ASF/common/services/ioport/xmega/ioport_compat.o
+                0x0000034e                ioport_configure_port_pin
+ .text.udi_cdc_comm_disable
+                0x0000039e        0xc src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x0000039e                udi_cdc_comm_disable
+ .text.udi_cdc_data_setup
+                0x000003aa        0x4 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x000003aa                udi_cdc_data_setup
+ .text.udi_cdc_getsetting
+                0x000003ae        0x4 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x000003ae                udi_cdc_getsetting
+ .text.udi_cdc_comm_setup
+                0x000003b2       0xa0 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x000003b2                udi_cdc_comm_setup
+ .text.udi_cdc_line_coding_received
+                0x00000452        0x2 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_tx_send
+                0x00000454      0x156 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_data_sof_notify
+                0x000005aa        0x4 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x000005aa                udi_cdc_data_sof_notify
+ .text.udi_cdc_data_sent
+                0x000005ae       0x30 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_data_disable
+                0x000005de       0x18 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x000005de                udi_cdc_data_disable
+ .text.udi_cdc_comm_enable
+                0x000005f6       0x7c src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x000005f6                udi_cdc_comm_enable
+ .text.udi_cdc_multi_get_nb_received_data
+                0x00000672       0x2a src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x00000672                udi_cdc_multi_get_nb_received_data
+ .text.udi_cdc_multi_is_rx_ready
+                0x0000069c        0xe src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x0000069c                udi_cdc_multi_is_rx_ready
+ .text.udi_cdc_rx_start
+                0x000006aa       0x8e src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_data_received
+                0x00000738       0x62 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .text.udi_cdc_data_enable
+                0x0000079a       0x6c src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x0000079a                udi_cdc_data_enable
+ .text.udi_cdc_multi_get_free_tx_buffer
+                0x00000806       0x6a src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x00000806                udi_cdc_multi_get_free_tx_buffer
+ .text.udi_cdc_multi_is_tx_ready
+                0x00000870        0xe src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x00000870                udi_cdc_multi_is_tx_ready
+ .text.udi_cdc_multi_putc
+                0x0000087e       0x86 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x0000087e                udi_cdc_multi_putc
+ .text.udi_cdc_putc
+                0x00000904        0x6 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x00000904                udi_cdc_putc
+ .text.udc_get_eof_conf
+                0x0000090a       0x1c src/ASF/common/services/usb/udc/udc.o
+ .text.udc_next_desc_in_iface
+                0x00000926       0x5e src/ASF/common/services/usb/udc/udc.o
+ .text.udc_update_iface_desc
+                0x00000984       0x82 src/ASF/common/services/usb/udc/udc.o
+ .text.udc_valid_address
+                0x00000a06        0x8 src/ASF/common/services/usb/udc/udc.o
+ .text.udc_iface_enable
+                0x00000a0e       0x68 src/ASF/common/services/usb/udc/udc.o
+ .text.udc_iface_disable
+                0x00000a76       0x82 src/ASF/common/services/usb/udc/udc.o
+ .text.udc_start
+                0x00000af8        0x4 src/ASF/common/services/usb/udc/udc.o
+                0x00000af8                udc_start
+ .text.udc_reset
+                0x00000afc       0x4e src/ASF/common/services/usb/udc/udc.o
+                0x00000afc                udc_reset
+ .text.udc_sof_notify
+                0x00000b4a       0x5e src/ASF/common/services/usb/udc/udc.o
+                0x00000b4a                udc_sof_notify
+ .text.udc_process_setup
+                0x00000ba8      0x520 src/ASF/common/services/usb/udc/udc.o
+                0x00000ba8                udc_process_setup
+ .text.ccp_write_io
+                0x000010c8        0xc src/ASF/xmega/drivers/cpu/ccp.o
+                0x000010c8                ccp_write_io
+ .text.nvm_read_byte
+                0x000010d4       0x14 src/ASF/xmega/drivers/nvm/nvm_asm.o
+                0x000010d4                nvm_read_byte
+ .text.udd_sleep_mode
+                0x000010e8       0x3e src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ep_get_ctrl
+                0x00001126       0x32 src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ep_init
+                0x00001158       0x98 src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ctrl_init
+                0x000011f0       0x5a src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ctrl_stall_data
+                0x0000124a       0x22 src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ctrl_send_zlp_in
+                0x0000126c       0x22 src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ctrl_send_zlp_out
+                0x0000128e       0x1a src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ctrl_endofrequest
+                0x000012a8       0x10 src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ctrl_in_sent
+                0x000012b8       0xd4 src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ep_get_size
+                0x0000138c       0x56 src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ep_get_job
+                0x000013e2       0x3c src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ctrl_interrupt_tc_setup
+                0x0000141e       0xec src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_ep_trans_complet
+                0x0000150a      0x204 src/ASF/xmega/drivers/usb/usb_device.o
+ .text.udd_attach
+                0x0000170e       0x46 src/ASF/xmega/drivers/usb/usb_device.o
+                0x0000170e                udd_attach
+ .text.udd_enable
+                0x00001754       0xe4 src/ASF/xmega/drivers/usb/usb_device.o
+                0x00001754                udd_enable
+ .text.udd_is_high_speed
+                0x00001838        0x4 src/ASF/xmega/drivers/usb/usb_device.o
+                0x00001838                udd_is_high_speed
+ .text.udd_set_address
+                0x0000183c        0x6 src/ASF/xmega/drivers/usb/usb_device.o
+                0x0000183c                udd_set_address
+ .text.udd_getaddress
+                0x00001842        0x6 src/ASF/xmega/drivers/usb/usb_device.o
+                0x00001842                udd_getaddress
+ .text.udd_get_frame_number
+                0x00001848        0xe src/ASF/xmega/drivers/usb/usb_device.o
+                0x00001848                udd_get_frame_number
+ .text.udd_get_micro_frame_number
+                0x00001856        0x6 src/ASF/xmega/drivers/usb/usb_device.o
+                0x00001856                udd_get_micro_frame_number
+ .text.udd_set_setup_payload
+                0x0000185c       0x12 src/ASF/xmega/drivers/usb/usb_device.o
+                0x0000185c                udd_set_setup_payload
+ .text.udd_ep_alloc
+                0x0000186e       0x52 src/ASF/xmega/drivers/usb/usb_device.o
+                0x0000186e                udd_ep_alloc
+ .text.udd_ep_is_halted
+                0x000018c0        0xe src/ASF/xmega/drivers/usb/usb_device.o
+                0x000018c0                udd_ep_is_halted
+ .text.udd_ep_clear_halt
+                0x000018ce       0x32 src/ASF/xmega/drivers/usb/usb_device.o
+                0x000018ce                udd_ep_clear_halt
+ .text.udd_ep_run
+                0x00001900       0xec src/ASF/xmega/drivers/usb/usb_device.o
+                0x00001900                udd_ep_run
+ .text.udd_ep_abort
+                0x000019ec       0x50 src/ASF/xmega/drivers/usb/usb_device.o
+                0x000019ec                udd_ep_abort
+ .text.udd_ep_set_halt
+                0x00001a3c       0x20 src/ASF/xmega/drivers/usb/usb_device.o
+                0x00001a3c                udd_ep_set_halt
+ .text.udd_ep_free
+                0x00001a5c       0x12 src/ASF/xmega/drivers/usb/usb_device.o
+                0x00001a5c                udd_ep_free
+ .text.__vector_125
+                0x00001a6e      0x162 src/ASF/xmega/drivers/usb/usb_device.o
+                0x00001a6e                __vector_125
+ .text.__vector_126
+                0x00001bd0      0x1ba src/ASF/xmega/drivers/usb/usb_device.o
+                0x00001bd0                __vector_126
+ .text.main     0x00001d8a        0xa src/main.o
+                0x00001d8a                main
+ .text.my_callback_cdc_enable
+                0x00001d94        0x8 src/system.o
+                0x00001d94                my_callback_cdc_enable
+ .text.my_callback_cdc_disable
+                0x00001d9c        0x6 src/system.o
+                0x00001d9c                my_callback_cdc_disable
+ .text.system_init
+                0x00001da2       0x2e src/system.o
+                0x00001da2                system_init
+ .text.system_run
+                0x00001dd0       0x3a src/system.o
+                0x00001dd0                system_run
+ .text.libgcc.div
+                0x00001e0a       0x28 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_udivmodhi4.o)
+                0x00001e0a                __udivmodhi4
+ .text.avr-libc
+                0x00001e32       0x12 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2\libc.a(memcpy.o)
+                0x00001e32                memcpy
+                0x00001e44                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001e44        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_exit.o)
+                0x00001e44                _exit
+                0x00001e44                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001e44        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001e48                _etext = .
+
+.data           0x00802000       0x92 load address 0x00001e48
+                0x00802000                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2/crtx16c4.o
+ .data          0x00802000        0x0 src/ASF/common/services/clock/xmega/sysclk.o
+ .data          0x00802000        0x0 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .data          0x00802000        0x0 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .data          0x00802000        0x0 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .data          0x00802000        0x0 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .data          0x00802000        0x0 src/ASF/common/services/usb/udc/udc.o
+ .data          0x00802000        0x0 src/ASF/xmega/drivers/cpu/ccp.o
+ .data          0x00802000        0x0 src/ASF/xmega/drivers/nvm/nvm.o
+ .data          0x00802000        0x0 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .data          0x00802000        0x0 src/ASF/xmega/drivers/usb/usb_device.o
+ .data          0x00802000        0x0 src/main.o
+ .data          0x00802000        0x0 src/system.o
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_exit.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_copy_data.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avrxmega2\libgcc.a(_clear_bss.o)
+ .data          0x00802000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2\libc.a(memcpy.o)
+ *(.data*)
+ .data.udi_api_cdc_data
+                0x00802000        0xa src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x00802000                udi_api_cdc_data
+ .data.udi_api_cdc_comm
+                0x0080200a        0xa src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                0x0080200a                udi_api_cdc_comm
+ .data.udc_config
+                0x00802014        0x4 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+                0x00802014                udc_config
+ .data.udc_config_fs
+                0x00802018        0x4 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+                0x00802018                udc_config_fs
+ .data.udi_apis
+                0x0080201c        0x4 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+                0x0080201c                udi_apis
+ .data.udc_desc_fs
+                0x00802020       0x44 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+                0x00802020                udc_desc_fs
+ .data.udc_device_desc
+                0x00802064       0x12 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+                0x00802064                udc_device_desc
+ .data.udc_string_desc_languageid
+                0x00802076        0x4 src/ASF/common/services/usb/udc/udc.o
+ .data.udc_string_desc
+                0x0080207a       0x10 src/ASF/common/services/usb/udc/udc.o
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080208a        0x8 src/ASF/common/services/usb/udc/udc.o
+ *(.gnu.linkonce.d*)
+                0x00802092                . = ALIGN (0x2)
+                0x00802092                _edata = .
+                0x00802092                PROVIDE (__data_end, .)
+
+.bss            0x00802094      0x277
+                0x00802094                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.udi_cdc_tx_both_buf_to_send
+                0x00802094        0x1 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_tx_trans_ongoing
+                0x00802095        0x1 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_tx_buf_sel
+                0x00802096        0x1 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_rx_trans_ongoing
+                0x00802097        0x1 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_rx_pos
+                0x00802098        0x2 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_rx_buf_sel
+                0x0080209a        0x1 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_data_running
+                0x0080209b        0x1 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_nb_data_enabled
+                0x0080209c        0x1 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_nb_comm_enabled
+                0x0080209d        0x1 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_state
+                0x0080209e        0x2 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.uid_cdc_state_msg
+                0x008020a0        0xa src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_line_coding
+                0x008020aa        0x7 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_tx_buf_nb
+                0x008020b1        0x4 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_tx_sof_num
+                0x008020b5        0x2 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_rx_buf_nb
+                0x008020b7        0x4 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.sof_zlp_counter.4269
+                0x008020bb        0x2 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ *fill*         0x008020bd        0x1 
+ .bss.udi_cdc_tx_buf
+                0x008020be       0x80 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udi_cdc_rx_buf
+                0x0080213e       0x80 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .bss.udc_ptr_iface
+                0x008021be        0x2 src/ASF/common/services/usb/udc/udc.o
+ .bss.udc_num_configuration
+                0x008021c0        0x1 src/ASF/common/services/usb/udc/udc.o
+ .bss.udc_ptr_conf
+                0x008021c1        0x2 src/ASF/common/services/usb/udc/udc.o
+ .bss.udc_device_status
+                0x008021c3        0x2 src/ASF/common/services/usb/udc/udc.o
+ .bss.udc_iface_setting.4033
+                0x008021c5        0x1 src/ASF/common/services/usb/udc/udc.o
+ .bss.udc_ep_status.3976
+                0x008021c6        0x2 src/ASF/common/services/usb/udc/udc.o
+ .bss.udd_sram  0x008021c8       0x40 src/ASF/xmega/drivers/usb/usb_device.o
+ .bss.udd_ep_job
+                0x00802208       0x24 src/ASF/xmega/drivers/usb/usb_device.o
+ .bss.udd_b_idle
+                0x0080222c        0x1 src/ASF/xmega/drivers/usb/usb_device.o
+ .bss.udd_ep_out_cache_buffer
+                0x0080222d       0x80 src/ASF/xmega/drivers/usb/usb_device.o
+ .bss.udd_ctrl_buffer
+                0x008022ad       0x40 src/ASF/xmega/drivers/usb/usb_device.o
+ .bss.udd_ep_control_state
+                0x008022ed        0x2 src/ASF/xmega/drivers/usb/usb_device.o
+ .bss.udd_ctrl_prev_payload_nb_trans
+                0x008022ef        0x2 src/ASF/xmega/drivers/usb/usb_device.o
+ .bss.udd_ctrl_payload_nb_trans
+                0x008022f1        0x2 src/ASF/xmega/drivers/usb/usb_device.o
+ .bss.b_shortpacket.4681
+                0x008022f3        0x1 src/ASF/xmega/drivers/usb/usb_device.o
+ .bss.my_flag_autorize_cdc_transfert
+                0x008022f4        0x1 src/system.o
+ *(COMMON)
+ COMMON         0x008022f5        0x6 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+                0x008022f5                sleepmgr_locks
+ COMMON         0x008022fb       0x10 src/ASF/xmega/drivers/usb/usb_device.o
+                0x008022fb                udd_g_ctrlreq
+                0x0080230b                PROVIDE (__bss_end, .)
+                0x00001e48                __data_load_start = LOADADDR (.data)
+                0x00001eda                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080230b        0x0
+                0x0080230b                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080230b                PROVIDE (__noinit_end, .)
+                0x0080230b                _end = .
+                0x0080230b                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab           0x00000000      0x750
+ *(.stab)
+ .stab          0x00000000      0x6cc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2/crtx16c4.o
+ .stab          0x000006cc       0x84 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2\libc.a(memcpy.o)
+                                 0x90 (size before relaxing)
+
+.stabstr        0x00000000      0x10b
+ *(.stabstr)
+ .stabstr       0x00000000      0x10b c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avrxmega2/crtx16c4.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x2f
+ *(.comment)
+ .comment       0x00000000       0x2f src/ASF/common/services/clock/xmega/sysclk.o
+                                 0x30 (size before relaxing)
+ .comment       0x00000000       0x30 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .comment       0x00000000       0x30 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .comment       0x00000000       0x30 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .comment       0x00000000       0x30 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .comment       0x00000000       0x30 src/ASF/common/services/usb/udc/udc.o
+ .comment       0x00000000       0x30 src/ASF/xmega/drivers/nvm/nvm.o
+ .comment       0x00000000       0x30 src/ASF/xmega/drivers/usb/usb_device.o
+ .comment       0x00000000       0x30 src/main.o
+ .comment       0x00000000       0x30 src/system.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x510
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x40 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_aranges
+                0x00000040       0x20 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_aranges
+                0x00000060       0x18 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_aranges
+                0x00000078      0x168 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_aranges
+                0x000001e0       0x18 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_aranges
+                0x000001f8       0x78 src/ASF/common/services/usb/udc/udc.o
+ .debug_aranges
+                0x00000270       0x20 src/ASF/xmega/drivers/cpu/ccp.o
+ .debug_aranges
+                0x00000290       0xc0 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_aranges
+                0x00000350       0x28 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_aranges
+                0x00000378      0x138 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_aranges
+                0x000004b0       0x20 src/main.o
+ .debug_aranges
+                0x000004d0       0x40 src/system.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x788d
+ *(.debug_info)
+ .debug_info    0x00000000      0xc9a src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_info    0x00000c9a      0x11d src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_info    0x00000db7      0x121 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_info    0x00000ed8     0x17b8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_info    0x00002690      0x74a src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_info    0x00002dda     0x10b5 src/ASF/common/services/usb/udc/udc.o
+ .debug_info    0x00003e8f       0x87 src/ASF/xmega/drivers/cpu/ccp.o
+ .debug_info    0x00003f16     0x1384 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_info    0x0000529a       0x87 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_info    0x00005321     0x1d22 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_info    0x00007043      0x12e src/main.o
+ .debug_info    0x00007171      0x71c src/system.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x18ea
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x2be src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_abbrev  0x000002be       0x93 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_abbrev  0x00000351       0x80 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_abbrev  0x000003d1      0x3a1 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_abbrev  0x00000772       0xef src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_abbrev  0x00000861      0x3ad src/ASF/common/services/usb/udc/udc.o
+ .debug_abbrev  0x00000c0e       0x14 src/ASF/xmega/drivers/cpu/ccp.o
+ .debug_abbrev  0x00000c22      0x3f4 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_abbrev  0x00001016       0x12 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_abbrev  0x00001028      0x596 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_abbrev  0x000015be       0xab src/main.o
+ .debug_abbrev  0x00001669      0x281 src/system.o
+
+.debug_line     0x00000000     0x6148
+ *(.debug_line)
+ .debug_line    0x00000000      0x6af src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_line    0x000006af      0x4d4 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_line    0x00000b83      0x47b src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_line    0x00000ffe      0xeb8 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_line    0x00001eb6      0x4ec src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_line    0x000023a2      0xb25 src/ASF/common/services/usb/udc/udc.o
+ .debug_line    0x00002ec7       0x6e src/ASF/xmega/drivers/cpu/ccp.o
+ .debug_line    0x00002f35      0xbb8 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_line    0x00003aed      0x11f src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_line    0x00003c0c     0x1460 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_line    0x0000506c      0x80d src/main.o
+ .debug_line    0x00005879      0x8cf src/system.o
+
+.debug_frame    0x00000000      0xd70
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x74 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_frame   0x00000074       0x30 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_frame   0x000000a4      0x380 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_frame   0x00000424      0x148 src/ASF/common/services/usb/udc/udc.o
+ .debug_frame   0x0000056c      0x340 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_frame   0x000008ac      0x43c src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_frame   0x00000ce8       0x24 src/main.o
+ .debug_frame   0x00000d0c       0x64 src/system.o
+
+.debug_str      0x00000000    0x28874
+ *(.debug_str)
+ .debug_str     0x00000000    0x1e5c6 src/ASF/common/services/clock/xmega/sysclk.o
+                              0x1eb47 (size before relaxing)
+ .debug_str     0x0001e5c6      0x674 src/ASF/common/services/ioport/xmega/ioport_compat.o
+                              0x1db5a (size before relaxing)
+ .debug_str     0x0001ec3a      0x4a2 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+                              0x1d99d (size before relaxing)
+ .debug_str     0x0001f0dc     0x4779 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+                              0x21d05 (size before relaxing)
+ .debug_str     0x00023855      0x584 src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+                              0x21308 (size before relaxing)
+ .debug_str     0x00023dd9      0x77f src/ASF/common/services/usb/udc/udc.o
+                              0x20430 (size before relaxing)
+ .debug_str     0x00024558      0x58f src/ASF/xmega/drivers/nvm/nvm.o
+                              0x1e0c7 (size before relaxing)
+ .debug_str     0x00024ae7     0x3748 src/ASF/xmega/drivers/usb/usb_device.o
+                              0x249ec (size before relaxing)
+ .debug_str     0x0002822f      0x40f src/main.o
+                              0x2274f (size before relaxing)
+ .debug_str     0x0002863e      0x236 src/system.o
+                              0x22b1d (size before relaxing)
+
+.debug_loc      0x00000000     0x3b0e
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x399 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_loc     0x00000399       0x43 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_loc     0x000003dc      0xded src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_loc     0x000011c9      0x678 src/ASF/common/services/usb/udc/udc.o
+ .debug_loc     0x00001841     0x114c src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_loc     0x0000298d     0x1139 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_loc     0x00003ac6       0x48 src/system.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x4f8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x30 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_ranges  0x00000030       0x10 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_ranges  0x00000040      0x158 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_ranges  0x00000198       0xb0 src/ASF/common/services/usb/udc/udc.o
+ .debug_ranges  0x00000248       0xc8 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_ranges  0x00000310       0x20 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_ranges  0x00000330      0x140 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_ranges  0x00000470       0x10 src/main.o
+ .debug_ranges  0x00000480       0x78 src/system.o
+
+.debug_macro    0x00000000     0x8ce1
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x1c7 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000001c7      0x5b0 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000777       0x10 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000787      0x1ad src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000934      0x293 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000bc7       0x9e src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000c65     0x4547 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000051ac       0x9a src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00005246       0xf1 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00005337       0x34 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x0000536b       0x18 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00005383       0x5e src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000053e1       0x10 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000053f1       0x22 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00005413      0x16c src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x0000557f       0x1c src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x0000559b       0x35 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000055d0       0x51 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00005621      0x2ee src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x0000590f       0x97 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000059a6       0x17 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000059bd      0x250 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00005c0d       0x76 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00005c83       0x16 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00005c99      0x6e0 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00006379       0x10 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00006389      0x160 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000064e9       0x40 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00006529       0x69 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00006592       0x32 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000065c4       0xe4 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000066a8       0x40 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000066e8       0x3a src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00006722       0x7b src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x0000679d       0x2f src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000067cc      0x154 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00006920       0x26 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00006946      0x189 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00006acf       0x7c src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00006b4b      0x109 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00006c54      0x199 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00006ded       0x10 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00006dfd       0x5e src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00006e5b      0x28f src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x000070ea       0x8b src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00007175      0x225 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x0000739a       0xf0 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x0000748a      0x241 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x000076cb       0xbb src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00007786       0x16 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x0000779c       0x1c src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x000077b8      0x190 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x00007948       0x16 src/ASF/common/services/usb/class/cdc/device/udi_cdc.o
+ .debug_macro   0x0000795e      0x1fa src/ASF/common/services/usb/class/cdc/device/udi_cdc_desc.o
+ .debug_macro   0x00007b58      0x1ec src/ASF/common/services/usb/udc/udc.o
+ .debug_macro   0x00007d44      0x18e src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00007ed2      0x2ab src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x0000817d      0x467 src/ASF/xmega/drivers/usb/usb_device.o
+ .debug_macro   0x000085e4      0x2fc src/main.o
+ .debug_macro   0x000088e0       0x34 src/main.o
+ .debug_macro   0x00008914       0x40 src/main.o
+ .debug_macro   0x00008954       0x91 src/main.o
+ .debug_macro   0x000089e5      0x2fc src/system.o
+OUTPUT(firmware.elf elf32-avr)
+LOAD linker stubs
